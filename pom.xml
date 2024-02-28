@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>product-service</module>
+        <module>Client-Server</module>
         <module>order-service</module>
         <module>inventory-service</module>
         <module>discovery-service</module>
