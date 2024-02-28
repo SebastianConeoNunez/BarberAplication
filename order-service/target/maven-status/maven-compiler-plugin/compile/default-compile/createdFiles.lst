@@ -1,0 +1,4 @@
+com\aplicationMicroservice\orderservice\dto\InventoryResponse.class
+com\aplicationMicroservice\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\aplicationMicroservice\orderservice\Config\WebClientConfiguration.class
+com\aplicationMicroservice\orderservice\Config\SecurityConfig.class

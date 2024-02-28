@@ -1,0 +1,11 @@
+com\aplicationMicroservice\productservice\repository\ProducRepository.class
+com\aplicationMicroservice\productservice\dto\ProductRequest.class
+com\aplicationMicroservice\productservice\controller\ProductcController.class
+com\aplicationMicroservice\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\aplicationMicroservice\productservice\dto\ProductResponse.class
+com\aplicationMicroservice\productservice\ProductServiceApplication.class
+com\aplicationMicroservice\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\aplicationMicroservice\productservice\model\Product.class
+com\aplicationMicroservice\productservice\config\SecurityConfig.class
+com\aplicationMicroservice\productservice\service\Productservice.class
+com\aplicationMicroservice\productservice\model\Product$ProductBuilder.class
